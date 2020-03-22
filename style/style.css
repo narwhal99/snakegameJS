@@ -1,0 +1,32 @@
+*{
+    background-color:black;
+}
+tr {
+    width: 20px;
+    height: 20px;
+}
+td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid darkgray;
+}
+table {
+    border: 1px solid black;
+}
+
+.snake-color {
+    background-color: red;
+}
+
+.food {
+    background-color: green;
+}
+
+h1{
+   color: white;
+}
+
+button{
+    color:white;
+    background: red;
+}
